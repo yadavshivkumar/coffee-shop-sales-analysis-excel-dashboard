@@ -8,7 +8,7 @@ Excel dashboard project analyzing coffee shop sales data, customer footfall, pea
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance and operational efficiency of the Coffee Shop. 
 
 ## 📊 Dashboard Preview
-![Coffee Shop Sales Dashboard](Screenshot-2026-09-15-143928_2.png)
+![Coffee Shop Sales Dashboard](Screenshot-2026-09-15-143928.png)
 
 ---
 
